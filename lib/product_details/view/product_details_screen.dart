@@ -8,7 +8,7 @@ class ProductDetailsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: MainAppBar(title: 'Product Details'),
-      body: Center(child: Text('Product Details Screen')),
+      body: Center(child: Text('Product Details Screen test')),
     );
   }
 }
