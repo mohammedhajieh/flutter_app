@@ -1,4 +1,4 @@
-import 'package:first_app/login/view_model/state.dart';
+import 'package:first_app/features/login/view_model/state.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

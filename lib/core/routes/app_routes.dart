@@ -1,7 +1,7 @@
-import 'package:first_app/login/view/login_screen.dart';
-import 'package:first_app/product/view/product_screen.dart';
-import 'package:first_app/product_details/view/product_details_screen.dart';
-import 'package:first_app/routes/app_pages.dart';
+import 'package:first_app/features/login/view/login_screen.dart';
+import 'package:first_app/features/product/view/product_screen.dart';
+import 'package:first_app/features/product_details/view/product_details_screen.dart';
+import 'package:first_app/core/routes/app_pages.dart';
 import 'package:flutter/material.dart';
 
 class AppRoutes {

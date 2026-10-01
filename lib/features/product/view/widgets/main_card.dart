@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:first_app/product/model/response_product_data.dart';
-import 'package:first_app/product_details/view/product_details_screen.dart';
+import 'package:first_app/features/product/model/response_product_data.dart';
+import 'package:first_app/features/product_details/view/product_details_screen.dart';
 import 'package:flutter/material.dart';
 
 class MainCard extends StatelessWidget {

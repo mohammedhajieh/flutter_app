@@ -1,5 +1,5 @@
-import 'package:first_app/utils/font/app_font.dart';
-import 'package:first_app/utils/theme/app_colors.dart';
+import 'package:first_app/core/utils/font/app_font.dart';
+import 'package:first_app/core/utils/theme/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class AppTheme {

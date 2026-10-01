@@ -1,4 +1,4 @@
-import 'package:first_app/product/view_model/state.dart';
+import 'package:first_app/features/product/view_model/state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class ProductCubit extends Cubit<ProductState> {

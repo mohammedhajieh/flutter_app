@@ -1,6 +1,6 @@
-import 'package:first_app/routes/app_pages.dart';
-import 'package:first_app/routes/app_routes.dart';
-import 'package:first_app/utils/theme/app_theme.dart';
+import 'package:first_app/core/routes/app_pages.dart';
+import 'package:first_app/core/routes/app_routes.dart';
+import 'package:first_app/core/utils/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class FirstApp extends StatelessWidget {

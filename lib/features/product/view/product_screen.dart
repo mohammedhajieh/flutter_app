@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:first_app/product/view_model/cubit.dart';
-import 'package:first_app/product/view_model/state.dart';
-import 'package:first_app/utils/widgets/appbar/main_app_bar.dart';
+import 'package:first_app/features/product/view_model/cubit.dart';
+import 'package:first_app/features/product/view_model/state.dart';
+import 'package:first_app/core/utils/widgets/appbar/main_app_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

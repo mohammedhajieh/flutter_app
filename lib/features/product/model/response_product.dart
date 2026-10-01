@@ -1,5 +1,5 @@
-import 'package:first_app/product/model/response_product_data.dart';
-import 'package:first_app/product/model/response_user.dart';
+import 'package:first_app/features/product/model/response_product_data.dart';
+import 'package:first_app/features/product/model/response_user.dart';
 
 class ResponseProduct {
   final String? status;
